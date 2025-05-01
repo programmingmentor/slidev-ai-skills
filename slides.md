@@ -625,5 +625,5 @@ layout: end
 </div>
 
 <div class="w-full flex justify-center">
-  <a href="https://programmingmentor.github.io/slidev-from-ai-assisted-to-ai-driven/">https://programmingmentor.github.io/slidev-from-ai-assisted-to-ai-driven/</a>
+  <a href="https://programmingmentor.github.io/slidev-ai-skills/">https://programmingmentor.github.io/slidev-ai-skills/</a>
 </div>
